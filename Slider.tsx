@@ -9,4 +9,4 @@ function Toggle({ checked = false, onChange }) {
   );
 }
 
-// @figma component-name: Slider
+export default Slider;
