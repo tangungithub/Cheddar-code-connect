@@ -10,4 +10,4 @@ function SwitchField({ label = "Label", description = "Description", checked = f
   );
 }
 
-// @figma component-name: Switch Field
+export default Switch FIeld;
