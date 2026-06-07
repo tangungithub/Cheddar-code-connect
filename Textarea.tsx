@@ -7,3 +7,5 @@ function Textarea({ label = "Label", value = "", description = "Description", on
     </div>
   );
 }
+
+// @figma component-name: Textarea
