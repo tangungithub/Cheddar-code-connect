@@ -9,3 +9,5 @@ function Checkbox({ label = "Label", description = "Description", checked = fals
     </label>
   );
 }
+
+// @figma component-name: Checkbox
