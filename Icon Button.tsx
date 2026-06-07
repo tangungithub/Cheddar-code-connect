@@ -5,4 +5,4 @@ function IconButton({ icon = "x", variant = "filled", disabled = false }) {
     </button>
   );
 }
-// @figma component-name: Icon Button
+export default Icon Button;
