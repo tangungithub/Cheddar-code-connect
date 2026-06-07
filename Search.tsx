@@ -6,3 +6,5 @@ function Search({ placeholder = "Search anything", value = "", onChange }) {
     </div>
   );
 }
+
+// @figma component-name: Search
