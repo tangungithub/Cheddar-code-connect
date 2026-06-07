@@ -7,4 +7,4 @@ function Search({ placeholder = "Search anything", value = "", onChange }) {
   );
 }
 
-// @figma component-name: Search
+export default Search;
