@@ -8,4 +8,4 @@ function Textarea({ label = "Label", value = "", description = "Description", on
   );
 }
 
-// @figma component-name: Textarea
+export default Textarea;
