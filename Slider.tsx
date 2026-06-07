@@ -8,3 +8,5 @@ function Toggle({ checked = false, onChange }) {
     </label>
   );
 }
+
+// @figma component-name: Slider
