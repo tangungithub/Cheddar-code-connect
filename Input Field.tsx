@@ -7,3 +7,5 @@ function InputField({ label = "Label", value = "", description = "Description", 
     </div>
   );
 }
+
+// @figma component-name: Input Field
