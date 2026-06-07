@@ -8,4 +8,4 @@ function InputField({ label = "Label", value = "", description = "Description", 
   );
 }
 
-// @figma component-name: Input Field
+export default Input Field;
