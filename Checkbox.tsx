@@ -10,4 +10,4 @@ function Checkbox({ label = "Label", description = "Description", checked = fals
   );
 }
 
-// @figma component-name: Checkbox
+export default Checkbox;
